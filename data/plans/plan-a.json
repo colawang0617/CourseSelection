@@ -1,0 +1,60 @@
+{
+  "id": "plan-a",
+  "name": "Plan A",
+  "placements": {
+    "1271": [
+      "SE350",
+      "CS341",
+      "MATH213",
+      "CO487",
+      "CS492",
+      "SE465",
+      "CS370"
+    ],
+    "1279": [
+      "SE390",
+      "CS449",
+      "ECE358",
+      "CS343",
+      "SE380",
+      "SE464",
+      "STV302"
+    ],
+    "1285": [
+      "SE463",
+      "SE490",
+      "CO456",
+      "PSYCH261",
+      "ECE457C",
+      "CS452"
+    ],
+    "1291": [
+      "SE491",
+      "CS479",
+      "CS486",
+      "CS349",
+      "CS484",
+      "CS485"
+    ]
+  },
+  "pins": {
+    "CS492": [
+      "se-ai:cs492",
+      "se-major-2024:cse-a"
+    ],
+    "SE380": [
+      "se-ai:ai-list",
+      "se-major-2024:se380"
+    ],
+    "SE465": [
+      "se-major-2024:se465",
+      "se-hci:tech"
+    ],
+    "CO487": [
+      "co-minor:upper"
+    ],
+    "CS370": [
+      "se-major-2024:free"
+    ]
+  }
+}

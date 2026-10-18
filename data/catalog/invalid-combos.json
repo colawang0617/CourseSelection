@@ -1,0 +1,610 @@
+[
+  {
+    "plan": "Accounting and Financial Management, Bachelor of",
+    "cannot": "Arts and Business; Management Studies Minor; Any stand-alone major"
+  },
+  {
+    "plan": "Actuarial Science major (Honours and Joint Honours)",
+    "cannot": "Data Science major (BCS or BMath)"
+  },
+  {
+    "plan": "Actuarial Science Minor",
+    "cannot": "Mathematical Finance major"
+  },
+  {
+    "plan": "Addictions, Mental Health, and Policy Minor",
+    "cannot": "Neuroscience Minor"
+  },
+  {
+    "plan": "Aging Studies Option",
+    "cannot": "Gerontology Minor or Diploma"
+  },
+  {
+    "plan": "Applied Mathematics major (Honours and Joint Honours)",
+    "cannot": "Applied Mathematics with Scientific Computing major; Data Science major (BCS or BMath); Mathematical Physics major (Bachelor of Mathematics)"
+  },
+  {
+    "plan": "Applied Mathematics Minor",
+    "cannot": "Applied Mathematics with Scientific Computing major; Mathematical Physics major (Bachelor of Mathematics); Mathematics, Joint; Mathematics Minor"
+  },
+  {
+    "plan": "Applied Mathematics with Scientific Computing major",
+    "cannot": "Applied Mathematics, Joint; Applied Mathematics Minor; Computational Mathematics major; Computational Mathematics Minor; Mathematical Physics major (Bachelor of Mathematics)"
+  },
+  {
+    "plan": "Artificial Intelligence Option",
+    "cannot": "Artificial Intelligence Specialization (Computer Science major, BCS or BMath, Bachelor of Software Engineering)"
+  },
+  {
+    "plan": "Artificial Intelligence Specialization (Bachelor of Software Engineering)",
+    "cannot": "Artificial Intelligence Option (Engineering)"
+  },
+  {
+    "plan": "Artificial Intelligence Specialization (Computer Science major, BCS or BMath)",
+    "cannot": "Artificial Intelligence Option (Engineering); Data Science (BCS)"
+  },
+  {
+    "plan": "Arts and Business",
+    "cannot": "Accounting and Financial Management, Bachelor of; Honours Arts Co-op; French Teaching Specialization (French major); Global Business and Digital Arts, Bachelor of; Management Studies Minor; Mathematical Economics major (BA and BMath); Sustainability and Financial Management, Bachelor of"
+  },
+  {
+    "plan": "Astrophysics Minor",
+    "cannot": "Physics and Astronomy major; Physics Minor; Physics Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Biochemistry major",
+    "cannot": "Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Minor; Biology Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Biochemistry Minor",
+    "cannot": "Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Minor; Biology Specialization (Applied Mathematics major); Cell and Molecular Biology Option (Science); Chemistry Minor; Microbiology Option (Science)"
+  },
+  {
+    "plan": "Bioinformatics Option",
+    "cannot": "Bioinformatics Specialization (Computer Science major, BCS or BMath); Cell and Molecular Biology Option (Science); Computer Science, Joint (BCS or BMath); Computer Science Minor; Computing Minor; Mathematics, Joint; Mathematics Minor; Microbiology Option (Science)"
+  },
+  {
+    "plan": "Bioinformatics Specialization (Computer Science major, BCS or BMath)",
+    "cannot": "Biochemistry major; Biochemistry Minor; Bioinformatics Option (Science); Biology major; Biology Minor; Biomedical Sciences major; Biophysics Minor; Environmental Sciences major (all specializations); Science and Business - Biochemistry Specialization; Science and Business - Biology Specialization; Science and Business - Biotechnology Specialization"
+  },
+  {
+    "plan": "Biology major",
+    "cannot": "Biochemistry major; Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Specialization (Applied Mathematics major); Biomedical Sciences major; Biophysics Specialization (Life Physics major)*; Biotechnology/Chartered Professional Accountancy major; Ecology Specialization (Environmental Sciences major); Science and Business (with a specialization); Water Science Specialization (Environmental Sciences major)"
+  },
+  {
+    "plan": "Biology Minor",
+    "cannot": "Biochemistry major; Biochemistry Minor; Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Specialization (Applied Mathematics major); Biomedical Sciences major; Biophysics Minor; Biophysics Specialization (Life Physics major)*; Biotechnology/Chartered Professional Accountancy major; Biotechnology/Economics major*; Cell and Molecular Biology Option (Science); Ecology Specialization (Environmental Sciences major); Medical Physiology Minor; Microbiology Option (Science); Neuroscience Minor; Science and Business (all specializations); Water Science Specialization (Environmental Sciences major)"
+  },
+  {
+    "plan": "Biology Specialization (Applied Mathematics major)",
+    "cannot": "Biochemistry major; Biochemistry Minor; Bioinformatics Option (Science); Biology major; Biology Minor; Biomedical Sciences major; Biophysics Minor; Environmental Sciences major (all specializations); Science and Business - Biochemistry Specialization; Science and Business - Biology Specialization; Science and Business - Biotechnology Specialization"
+  },
+  {
+    "plan": "Biomedical Sciences",
+    "cannot": "Bioinformatics Specialization or Option* (Computer Science major, BCS or BMath); Biology major; Biology Minor; Biology Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Biophysics Minor",
+    "cannot": "Bioinformatics Specialization or Option* (Computer Science major, BCS or BMath); Biology Minor; Biology Specialization (Applied Mathematics major); Cell and Molecular Biology Option (Science); Life Physics major*; Mathematical Physics major (Bachelor of Mathematics); Microbiology Option (Science); Physics Minor; Physics Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Biostatistics major",
+    "cannot": "Data Science major (BCS or BMath); Statistics, Joint; Statistics major; Statistics Minor"
+  },
+  {
+    "plan": "Biotechnology/Chartered Professional Accountancy",
+    "cannot": "Biology Minor"
+  },
+  {
+    "plan": "Business Administration and Computer Science double degree plans",
+    "cannot": "Computer Science, Joint (BCS or BMath); Computer Science major (BCS or BMath); Computer Science Minor; Computing Minor; Data Science major (BMath); Any plan similar to one appearing on the student's Laurier academic record transcript"
+  },
+  {
+    "plan": "Business Administration and Mathematics double degree plans",
+    "cannot": "Information Technology Management major; Management Studies Minor; Mathematics/Business Administration major; Mathematics/Chartered Professional Accountancy major; Mathematics/Financial Analysis and Risk Management major (all specializations); Any plan similar to one appearing on the student's Laurier academic record transcript"
+  },
+  {
+    "plan": "Business Specialization (Computer Science major, BCS or BMath, Software Engineering)",
+    "cannot": "Economics Minor; Human Resources Management Minor or Diploma in; Management Studies Minor; Mathematics/Financial Analysis and Risk Management major (all specializations)"
+  },
+  {
+    "plan": "Business Specialization (Mathematical Studies major)",
+    "cannot": "Management Studies Minor"
+  },
+  {
+    "plan": "Business Option",
+    "cannot": "Environment and Business major; Human Resources Management Minor; Management Studies Minor; Sustainability and Financial Management, Bachelor of"
+  },
+  {
+    "plan": "Canadian Politics and Public Policy Minor",
+    "cannot": "Canadian Politics Specialization* (Political Science major); Political Science major; Public Policy and Public Administration Minor*"
+  },
+  {
+    "plan": "Cell and Molecular Biology Option",
+    "cannot": "Bioinformatics Option (Science); Biochemistry Minor; Biology Minor; Biophysics Minor; Microbiology Option (Science)"
+  },
+  {
+    "plan": "Chemical Physics major",
+    "cannot": "Physics Minor"
+  },
+  {
+    "plan": "Chemistry Minor",
+    "cannot": "Biochemistry Minor"
+  },
+  {
+    "plan": "Church Music and Worship Minor, or Diploma in",
+    "cannot": "Music major"
+  },
+  {
+    "plan": "Classical Studies Minor",
+    "cannot": "Classics major; Greek Minor*; Latin Minor*"
+  },
+  {
+    "plan": "Classics major",
+    "cannot": "Classical Studies Minor"
+  },
+  {
+    "plan": "Climate and Environmental Change major",
+    "cannot": "Geography and Environmental Management Minor; Geography and Environmental Management, Joint; Geomatics, Joint"
+  },
+  {
+    "plan": "Combinatorics and Optimization, Joint",
+    "cannot": "Data Science (BCS or BMath)"
+  },
+  {
+    "plan": "Combinatorics and Optimization major",
+    "cannot": "Data Science (BCS or BMath); Mathematical Optimization major (all specializations)"
+  },
+  {
+    "plan": "Combinatorics and Optimization Minor",
+    "cannot": "Mathematics, Joint; Mathematical Optimization major (all specializations); Mathematics Minor"
+  },
+  {
+    "plan": "Communication Arts and Design Practice major",
+    "cannot": "Communications Studies Minor and major; Digital Arts Communication Minor; Speech Communication Minor* and major*; Theatre and Performance Minor* and major; Performance Creation Minor"
+  },
+  {
+    "plan": "Communication Studies major",
+    "cannot": "Communication Arts and Design Practice major"
+  },
+  {
+    "plan": "Communication Studies Minor",
+    "cannot": "Communication Arts and Design Practice major"
+  },
+  {
+    "plan": "Computational Fine Art Specialization (Computer Science major, BCS or BMath, Software Engineering)",
+    "cannot": "Fine Arts major; Fine Arts Studio Minor; Visual Culture in a Global Context Minor; Visual Culture major"
+  },
+  {
+    "plan": "Computational Mathematics major",
+    "cannot": "Applied Mathematics with Scientific Computing major"
+  },
+  {
+    "plan": "Computational Mathematics Minor",
+    "cannot": "Applied Mathematics with Scientific Computing major"
+  },
+  {
+    "plan": "Computer Engineering major",
+    "cannot": "Computing Option (Engineering)"
+  },
+  {
+    "plan": "Computer Engineering Option",
+    "cannot": "Computing Option (Engineering); Software Engineering Option (Engineering)"
+  },
+  {
+    "plan": "Computer Science, Bachelor of",
+    "cannot": "Mathematics Minor"
+  },
+  {
+    "plan": "Computer Science, Joint (BCS)",
+    "cannot": "Computing and Financial Management, Bachelor of; Mathematics Minor"
+  },
+  {
+    "plan": "Computer Science, Joint (BCS or BMath)",
+    "cannot": "Bioinformatics Option (Science); Business Administration and BCS double degree; Computing Minor; Data Science major (BCS or BMath); Software Engineering, Bachelor of; Statistics, Joint"
+  },
+  {
+    "plan": "Computer Science major (BCS or BMath)",
+    "cannot": "Business Administration and BCS double degree; Computing and Financial Management, Bachelor of; Computing Minor; Data Science major (BCS or BMath); Software Engineering, Bachelor of"
+  },
+  {
+    "plan": "Computer Science Minor",
+    "cannot": "Bioinformatics Option (Science); Business Administration and BCS double degree; Computing and Financial Management, Bachelor of; Computing Minor; Computing Option* (Mathematics); Data Science major (BCS); Mathematics Minor; Software Engineering, Bachelor of"
+  },
+  {
+    "plan": "Computing and Financial Management, Bachelor of",
+    "cannot": "Computer Science, Bachelor of; Computer Science, Joint (BCS); Mathematics Minor"
+  },
+  {
+    "plan": "Computing Minor",
+    "cannot": "Bioinformatics Option (Science); Business Administration and BCS double degree; Computer Science, Joint (BCS or BMath); Computer Science major (BCS or BMath); Computer Science Minor; Computing and Financial Management, Bachelor of; Data Science major (BCS); Information Technology Management major; Mathematics Minor; Software Engineering, Bachelor of"
+  },
+  {
+    "plan": "Computing Option",
+    "cannot": "Computer Engineering major; Computer Engineering Option (Engineering); Software Engineering, Bachelor of; Software Engineering Option (Engineering)"
+  },
+  {
+    "plan": "Creative Writing, Diploma in",
+    "cannot": "English majors"
+  },
+  {
+    "plan": "Data Science major (BCS)",
+    "cannot": "Actuarial Science major (Honours and Joint Honours); Applied Mathematics major (Honours and Joint Honours); Artificial Intelligence Specialization (Computer Science majors); Biostatistics major; Combinatorics and Optimization major (Honours and Joint Honours); Computational Mathematics major; Computer Science major (Honours and Joint Honours) (BCS or BMath); Computer Science Minor; Information Technology Management major; Mathematical Economics major (BA or BMath); Mathematical Finance major; Mathematical Optimization major (all specializations); Mathematical Physics major (Bachelor of Mathematics); Mathematics/Business Administration major; Mathematics/Chartered Professional Accountancy major; Mathematics/Financial Analysis and Risk Management major (all specializations); Statistics major (Honours and Joint Honours)"
+  },
+  {
+    "plan": "Data Science major (BMath)",
+    "cannot": "Actuarial Science major (Honours and Joint Honours); Applied Mathematics major (Honours and Joint Honours); Biostatistics major; Business Administration and BCS double degree; Combinatorics and Optimization major (Honours and Joint Honours); Computational Mathematics major; Computer Science major (Honours and Joint Honours) (BCS or BMath); Information Technology Management major; Mathematical Economics major (BA or BMath); Mathematical Finance major; Mathematical Optimization major (all specializations); Mathematical Physics major (Bachelor of Mathematics); Mathematics/Business Administration major; Mathematics/Chartered Professional Accountancy major; Mathematics/Financial Analysis and Risk Management major (all specializations); Statistics major (Honours and Joint Honours)"
+  },
+  {
+    "plan": "Digital Arts Communication Minor",
+    "cannot": "Communication Arts and Design Practice major; Digital Media Studies Specialization (English majors); Global Business and Digital Arts, Bachelor of"
+  },
+  {
+    "plan": "Digital Media Studies Specialization (English majors)",
+    "cannot": "Digital Arts Communication Minor"
+  },
+  {
+    "plan": "Earth Sciences, Joint",
+    "cannot": "Geological Engineering"
+  },
+  {
+    "plan": "Earth Sciences Minor",
+    "cannot": "Geoscience Specialization (Environmental Sciences major); Water Science Specialization (Environmental Sciences major)"
+  },
+  {
+    "plan": "Ecology Specialization (Environmental Sciences major)",
+    "cannot": "Biology Minor"
+  },
+  {
+    "plan": "Economics major",
+    "cannot": "Economics Specialization (Applied Mathematics major); Economic Theory Minor; Mathematical Economics major (BA or BMath)"
+  },
+  {
+    "plan": "Economics Minor",
+    "cannot": "Biotechnology/Economics major*; Business Specialization or Option* (Computer Science major, BCS or BMath, Bachelor of Software Engineering); Economic Theory Minor; Economics Specialization (Applied Mathematics major); Mathematical Economics major (BA or BMath)"
+  },
+  {
+    "plan": "Economics Specialization (Applied Mathematics major)",
+    "cannot": "Economics major; Economic Theory Minor; Mathematical Economics major (BA or BMath)"
+  },
+  {
+    "plan": "Economic Theory Minor",
+    "cannot": "Biotechnology/Economics major*; Economics major; Economics Minor; Economics Specialization (Applied Mathematics major); Mathematical Economics major (BA or BMath)"
+  },
+  {
+    "plan": "English majors",
+    "cannot": "Creative Writing, Diploma in; Technical Writing Minor"
+  },
+  {
+    "plan": "Entrepreneurial Mindset Specialization (Accounting and Financial Management, Bachelor of)",
+    "cannot": "Entrepreneurship Minor"
+  },
+  {
+    "plan": "Entrepreneurship Minor",
+    "cannot": "Entrepreneurial Mindset Specialization (Accounting and Financial Management, Bachelor of)"
+  },
+  {
+    "plan": "Environment and Business major",
+    "cannot": "Business Option (Environment); Management Studies Minor"
+  },
+  {
+    "plan": "Environment, Resources and Sustainability major",
+    "cannot": "Sustainability, Diploma in"
+  },
+  {
+    "plan": "Environmental Sciences major (all specializations)",
+    "cannot": "Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Finance Specialization (Actuarial Science major)",
+    "cannot": "Mathematical Finance major"
+  },
+  {
+    "plan": "Fine Arts major",
+    "cannot": "Computational Fine Art Specialization (Computer Science major, BCS or BMath, Software Engineering)"
+  },
+  {
+    "plan": "Fine Arts Studio Minor",
+    "cannot": "Computational Fine Art Specialization (Computer Science major, BCS or BMath, Software Engineering)"
+  },
+  {
+    "plan": "French Teaching Specialization (French major)",
+    "cannot": "Arts and Business; Any other stand-alone major"
+  },
+  {
+    "plan": "Geography and Aviation major",
+    "cannot": "Geography and Environmental Management Minor; Geography and Environmental Management, Joint; Geomatics, Joint"
+  },
+  {
+    "plan": "Geography and Environmental Management, Joint",
+    "cannot": "Climate and Environmental Change major; Geography and Aviation major; Geomatics major"
+  },
+  {
+    "plan": "Geography and Environmental Management major",
+    "cannot": "Geomatics, Joint"
+  },
+  {
+    "plan": "Geography and Environmental Management Minor",
+    "cannot": "Climate and Environmental Change major; Geography and Aviation major; Geomatics major"
+  },
+  {
+    "plan": "Geological Engineering",
+    "cannot": "Earth Sciences, Joint"
+  },
+  {
+    "plan": "Geomatics, Joint",
+    "cannot": "Climate and Environmental Change major; Geography and Aviation major; Geography and Environmental major; Geography and Environmental Management Minor"
+  },
+  {
+    "plan": "Geomatics major",
+    "cannot": "Geography and Environmental Management, Joint; Geography and Environmental Management Minor"
+  },
+  {
+    "plan": "Geoscience Specialization (Environmental Sciences major)",
+    "cannot": "Earth Sciences Minor"
+  },
+  {
+    "plan": "Gerontology Minor or Diploma",
+    "cannot": "Aging Studies Option (Health)"
+  },
+  {
+    "plan": "Global Business and Digital Arts, Bachelor of",
+    "cannot": "Arts and Business; Digital Arts Communication Minor; Management Studies Minor; Any stand-alone major"
+  },
+  {
+    "plan": "Honours Arts Co-op",
+    "cannot": "Arts and Business"
+  },
+  {
+    "plan": "Human Resources Management (HRM) Minor, or Diploma in",
+    "cannot": "Students who have completed a Diploma in HRM or the course requirements for the Certified Human Resources Professional (CHRP) designation, or who have graduated from a college or university HR or business program; Business Specialization or Option* (Computer Science major, BCS or BMath, Software Engineering); Business Option (Environment)"
+  },
+  {
+    "plan": "Indigenous Entrepreneurship Minor or Diploma",
+    "cannot": "Indigenous Entrepreneurship Specialization (Sustainability and Financial Management, Bachelor of)"
+  },
+  {
+    "plan": "Indigenous Entrepreneurship Specialization (Sustainability and Financial Management, Bachelor of)",
+    "cannot": "Indigenous Entrepreneurship Minor or Diploma"
+  },
+  {
+    "plan": "Information Technology Management major",
+    "cannot": "Business Administration and Mathematics double degree plans; Computing Minor; Computing Option* (Mathematics); Data Science majors (BCS or BMath); Mathematics/Business Administration major; Mathematics/Chartered Professional Accountancy major; Mathematics/Financial Analysis and Risk Management majors (all specializations)"
+  },
+  {
+    "plan": "International Relations Specialization (History major)",
+    "cannot": "International Relations Specialization (Political Science major)"
+  },
+  {
+    "plan": "International Relations Specialization (Political Science major)",
+    "cannot": "International Relations Specialization (History major)"
+  },
+  {
+    "plan": "Latin American Studies, Diploma in;",
+    "cannot": "Spanish major; Spanish Minor; Spanish Language, Diploma in"
+  },
+  {
+    "plan": "Liberal Studies major",
+    "cannot": "Any other stand-alone Arts major"
+  },
+  {
+    "plan": "Management Engineering",
+    "cannot": "Management Science Option"
+  },
+  {
+    "plan": "Management Science Option",
+    "cannot": "Management Engineering"
+  },
+  {
+    "plan": "Management Studies Minor",
+    "cannot": "Any university business program, major, or sub-plan, including: Accounting and Financial Management, Bachelor of; Arts and Business; Business Administration and Mathematics double degree plans; Business Option (Environment); Business Specialization or Option* (Computer Science major, BCS or BMath, Software Engineering); Business Specialization (Mathematical Studies major); Environment and Business major; Global Business and Digital Arts, Bachelor of; Mathematics/Business Administration major; Recreation and Sport Business major; Science and Business major (any specialization) Sustainability and Financial Management, Bachelor of"
+  },
+  {
+    "plan": "Materials and Nanosciences major",
+    "cannot": "Physics Minor"
+  },
+  {
+    "plan": "Mathematical Economics major (BA or BMath)",
+    "cannot": "Arts and Business; Biotechnology/Economics major*; Data Science major (BCS or BMath); Economics major; Economics Minor; Economics Specialization (Applied Mathematics major); Economic Theory Minor; Mathematics Minor; Any other stand-alone major"
+  },
+  {
+    "plan": "Mathematical Finance major",
+    "cannot": "Data Science major (BCS or BMath); Finance Specialization (Actuarial Science major)"
+  },
+  {
+    "plan": "Mathematical Optimization major (all specializations)",
+    "cannot": "Combinatorics and Optimization major; Combinatorics and Optimization Minor; Data Science major (BCS or BMath)"
+  },
+  {
+    "plan": "Mathematical Physics major (Bachelor of Mathematics)",
+    "cannot": "Applied Mathematics major (Honours and Joint Honours); Applied Mathematics Minor; Applied Mathematics with Scientific Computing major; Biophysics Minor; Data Science major (BCS or BMath) Life Physics major*; Mathematical Physics major (Bachelor of Science); Physics, Joint; Physics and Astronomy major; Physics major; Physics Minor"
+  },
+  {
+    "plan": "Mathematical Physics major (Bachelor of Science)",
+    "cannot": "Applied Mathematics Minor; Life Physics major*; Mathematical Physics major (Bachelor of Mathematics); Mathematics Minor; Physics, Joint; Physics and Astronomy major; Physics major; Physics Minor; Physics Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Mathematical Studies major (with or without a Business Specialization)",
+    "cannot": "Any other stand-alone or Mathematics Joint plan"
+  },
+  {
+    "plan": "Mathematics, Bachelor of",
+    "cannot": "Mathematics Minor"
+  },
+  {
+    "plan": "Mathematics/Business Administration major",
+    "cannot": "Business Administration and Mathematics double degree plans; Data Science major (BCS or BMath); Information Technology Management major; Management Studies Minor; Mathematics/Chartered Professional Accountancy major; Mathematics/Financial Analysis and Risk Management major (all specializations)"
+  },
+  {
+    "plan": "Mathematics/Chartered Professional Accountancy major",
+    "cannot": "Business Administration and Mathematics double degree plans; Data Science major (BCS or BMath); Information Technology Management major; Mathematics/Business Administration major; Mathematics/Financial Analysis and Risk Management major (all specializations)"
+  },
+  {
+    "plan": "Mathematics/Financial Analysis and Risk Management major (all specializations)",
+    "cannot": "Business Administration and Mathematics double degree plans; Business Specialization (Computer Science major, BCS or BMath, Software Engineering); Data Science major (BCS or BMath); Information Technology Management major; Mathematics/Business Administration major; Mathematics/Chartered Professional Accountancy major"
+  },
+  {
+    "plan": "Mathematics, Joint",
+    "cannot": "Bioinformatics Option (Science); Combinatorics and Optimization Minor; Computer Science, Joint (BCS); Mathematical Economics major (Bachelor of Arts); Mathematical Physics major (Bachelor of Science); Mathematics Minor; Pure Mathematics Minor"
+  },
+  {
+    "plan": "Mathematics Minor",
+    "cannot": "Applied Mathematics Minor; Bioinformatics Option (Science); Combinatorics and Optimization Minor; Computer Science, Joint (BCS); Computer Science, Bachelor of; Computer Science Minor; Computing and Financial Management, Bachelor of; Computing Minor; Mathematical Economics major (Bachelor of Arts); Mathematical Physics major (Bachelor of Science); Mathematics, Bachelor of; Mathematics, Joint; Pure Mathematics Minor; Software Engineering, Bachelor of"
+  },
+  {
+    "plan": "Medical Physiology Minor",
+    "cannot": "Biology Minor; Neuroscience Minor"
+  },
+  {
+    "plan": "Microbiology Option",
+    "cannot": "Bioinformatics Option (Science); Biochemistry Minor; Biology Minor; Biophysics Minor; Cell and Molecular Biology Option (Science)"
+  },
+  {
+    "plan": "Music major",
+    "cannot": "Church Music and Worship Minor, or Diploma in"
+  },
+  {
+    "plan": "Music in a Global Context Specialization (Music major)",
+    "cannot": "Music and Peace Specialization (Music major)"
+  },
+  {
+    "plan": "Music and Peace Specialization (Music major)",
+    "cannot": "Music in a Global Context Specialization (Music major)"
+  },
+  {
+    "plan": "Neuroscience Minor",
+    "cannot": "Addictions, Mental Health, and Policy Minor; Biology Minor; Medical Physiology Minor; Psychology Minor"
+  },
+  {
+    "plan": "Performance Creation Minor",
+    "cannot": "Communication Arts and Design Practice major"
+  },
+  {
+    "plan": "Physics, Joint",
+    "cannot": "Mathematical Physics major (Bachelor of Mathematics); Mathematical Physics major (Bachelor of Science); Physics Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Physics and Astronomy major",
+    "cannot": "Astrophysics Minor; Mathematical Physics major (Bachelor of Mathematics); Mathematical Physics major (Bachelor of Science); Physics Minor; Physics Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Physics major",
+    "cannot": "Mathematical Physics major (Bachelor of Mathematics); Mathematical Physics major (Bachelor of Science); Physics Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Physics Minor",
+    "cannot": "Astrophysics Minor; Biophysics Minor; Chemical Physics major*; Life Physics major*; Materials and Nanosciences major; Mathematical Physics major (Bachelor of Mathematics); Mathematical Physics major (Bachelor of Science); Physics and Astronomy major; Physics Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Physics Specialization (Applied Mathematics major)",
+    "cannot": "Astrophysics Minor; Biophysics Minor; Life Physics major*; Mathematical Physics major (Science); Physics, Joint; Physics and Astronomy major; Physics major; Physics Minor"
+  },
+  {
+    "plan": "Political Science major",
+    "cannot": "Canadian Politics and Public Policy Minor; Politics and Business Minor"
+  },
+  {
+    "plan": "Politics and Business Minor",
+    "cannot": "Politics and Business Specialization* (Political Science major); Political Science major"
+  },
+  {
+    "plan": "Public Policy Specialization (Economics major)",
+    "cannot": "Public Policy and Administration Minor*"
+  },
+  {
+    "plan": "Pure Mathematics Minor",
+    "cannot": "Mathematics, Joint; Mathematics Minor"
+  },
+  {
+    "plan": "Psychology Minor",
+    "cannot": "Neuroscience Minor"
+  },
+  {
+    "plan": "Recreation and Sport Business major",
+    "cannot": "Management Studies Minor"
+  },
+  {
+    "plan": "Restorative Justice Specialization (Peace and Conflict Studies major)",
+    "cannot": "Restorative Justice, Diploma in"
+  },
+  {
+    "plan": "Restorative Justice, Diploma in",
+    "cannot": "Restorative Justice Specialization (Peace and Conflict Studies major)"
+  },
+  {
+    "plan": "Science and Business (all majors)",
+    "cannot": "Management Studies Minor"
+  },
+  {
+    "plan": "Science and Business - Biochemistry Specialization",
+    "cannot": "Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Minor; Biology Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Science and Business - Biology Specialization",
+    "cannot": "Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Minor; Biology Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Science and Business - Biotechnology Specialization",
+    "cannot": "Bioinformatics Specialization (Computer Science major, BCS or BMath); Biology Minor; Biology Specialization (Applied Mathematics major)"
+  },
+  {
+    "plan": "Software Engineering, Bachelor of",
+    "cannot": "Computing Minor; Computing Option (Engineering); Computer Science major (Honours or Joint Honours) (BCS or BMath); Computer Science Minor; Mathematics Minor"
+  },
+  {
+    "plan": "Software Engineering Option",
+    "cannot": "Computer Engineering Option (Engineering); Computing Option (Engineering)"
+  },
+  {
+    "plan": "Spanish major",
+    "cannot": "Latin American Studies, Diploma in"
+  },
+  {
+    "plan": "Spanish Minor",
+    "cannot": "Latin American Studies, Diploma in"
+  },
+  {
+    "plan": "Spanish Language, Diploma in",
+    "cannot": "Latin American Studies, Diploma in"
+  },
+  {
+    "plan": "Statistics, Joint",
+    "cannot": "Biostatistics major; Computer Science, Joint (BCS or BMath); Data Science major (BCS or BMath)"
+  },
+  {
+    "plan": "Statistics major",
+    "cannot": "Biostatistics major; Data Science major (BCS or BMath)"
+  },
+  {
+    "plan": "Statistics Minor",
+    "cannot": "Biostatistics major"
+  },
+  {
+    "plan": "Sustainability, Diploma in",
+    "cannot": "Environment, Resources and Sustainability major; Sustainability and Financial Management, Bachelor of"
+  },
+  {
+    "plan": "Sustainability and Financial Management, Bachelor of",
+    "cannot": "Arts and Business; Business Option (Environment); Management Studies Minor; Sustainability, Diploma in; Any stand-alone major"
+  },
+  {
+    "plan": "Technical Writing Minor",
+    "cannot": "English majors"
+  },
+  {
+    "plan": "Theatre and Performance major",
+    "cannot": "Communication Arts and Design Practice major"
+  },
+  {
+    "plan": "Visual Culture in a Global Context Minor",
+    "cannot": "Computational Fine Art Specialization (Computer Science major, BCS or BMath, Software Engineering)"
+  },
+  {
+    "plan": "Visual Culture major",
+    "cannot": "Computational Fine Art Specialization (Computer Science major, BCS or BMath, Software Engineering)"
+  },
+  {
+    "plan": "Water Science Specialization (Environmental Science major)",
+    "cannot": "Biology Minor; Earth Sciences Minor"
+  }
+]
